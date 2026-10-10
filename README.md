@@ -15,5 +15,5 @@ Website Analytics: [Analytics](https://edenmhuang.github.io/Info153a-Fall26-Labs
 
 
 <strong> fl26-lab-4 </strong> <br>
-Date Created: October 05, 2026 <br>
+Date Created: October 09, 2026 <br>
 Dark Mode toggle: [Dark Mode](https://edenmhuang.github.io/Info153a-Fall26-Labs/fl26-lab-4/index.html) <br>
