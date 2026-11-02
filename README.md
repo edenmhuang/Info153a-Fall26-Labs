@@ -16,4 +16,4 @@ Dark Mode toggle: [Dark Mode](https://edenmhuang.github.io/Info153a-Fall26-Labs/
 
 <strong> fl26-lab-5 </strong> <br>
 Date Created: October 30, 2026 <br>
-Button Component: [Button Component](https://edenmhuang.github.io/Info153a-Fall26-Labs/fl26-lab-5/) <br>
+Button Component: [Button Component](https://edenmhuang.github.io/Info153a-Fall26-Labs/fl26-lab-5/dist/) <br>
