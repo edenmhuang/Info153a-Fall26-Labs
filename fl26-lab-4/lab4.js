@@ -21,7 +21,7 @@ const themeIcon = document.getElementById('themeIcon');
 // TODO: Get the <body> element
 const body = document.body;
 
-
+them
 // ===================================
 // STEP 2: Add Event Listener
 // ===================================
