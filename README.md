@@ -21,3 +21,7 @@ Button Component: [Button Component](https://edenmhuang.github.io/Info153a-Fall2
 <strong> fl26-lab-6 </strong> <br>
 Date Created: November 13, 2026 <br>
 Loading Animations: [Loading Animations](https://edenmhuang.github.io/Info153a-Fall26-Labs/fl26-lab-6/lab6.html) <br>
+
+<strong> fl26-lab-7 </strong> <br>
+Date Created: November 19, 2026 <br>
+Product Dashboard: [Product Dashboard](https://edenmhuang.github.io/Info153a-Fall26-Labs/fl26-lab-7/lab7/dist/) <br>
